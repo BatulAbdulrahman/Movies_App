@@ -6,7 +6,4 @@ https://bitbucket.org/batulmk/movies-app/src/master/
 
  some main screenshots for app :
 <p align="center">
-  <img src="photo_2022-12-12_15-54-44" title="Screenshot">
-    <img src="photo_2022-12-12_15-54-57" title="Screenshot">
-    <img src="photo_2022-12-12_15-55-07" title="Screenshot">
-</p>
+ ![photo_2022-12-12_15-55-07](https://user-images.githubusercontent.com/71075953/207064179-06622700-bc31-4e83-afac-4989dedb8c0f.jpg)
